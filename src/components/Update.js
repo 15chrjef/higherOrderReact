@@ -28,7 +28,7 @@ function Button(props){
 		</button>
 	)
 }
-
+ 
 const UpdateButton = UpdateComponent(Button)
 
 export default UpdateButton
